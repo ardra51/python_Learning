@@ -34,9 +34,26 @@ for k in range(1,count+1):
     numbers=numbers+[num]
 print(numbers)    
 '''
-
+''''
 n=int(input("enter the number : "))
 for h in  range(0,9):
  if h%2==0:
  print(n) 
- 
+'''
+''''
+first,second=0,1
+print(first,second)
+for z in range(5):
+    third=first+second
+    print(third)
+    first,second=second,first
+'''
+'''
+first,second=0,1
+print(first,second,end=" ")
+for k in range(8):
+    third=first+second
+    print(third,end=" ")
+    first,second=second,first
+ '''   
+num=int(input("enter the number : "))
