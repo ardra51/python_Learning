@@ -36,3 +36,8 @@ print("factiorial of 4 is : ",fact(4))
 
 '''
 
+add=lambda a,b:a+b
+print(add(31,12))
+
+is_even=lambda num: num%2==0
+print(is_even(4))
