@@ -10,5 +10,5 @@ for k in s:
 
 for n in d:
     print(f"{n} = {d[n]}")
-    
+
 '''   

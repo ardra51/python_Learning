@@ -48,8 +48,6 @@ else:
             grade = "Fail"
 
         print("Marks:", m, "Grade:", grade)
-
-        '''''''
         # Number Checker
 
 numbers = []   # list (data type)
