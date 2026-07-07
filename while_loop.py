@@ -1,4 +1,4 @@
-'''
+"'''
 count=1
  
 while count<=10:
@@ -12,9 +12,10 @@ for i in fruits:
     if i[0] in vowels:
      print(i)
 '''
-
+'''
 name=int(input("enter your name : "))
 while count name="ardra":
 for k in name:
     print(count,end=" ")
+'''
      
